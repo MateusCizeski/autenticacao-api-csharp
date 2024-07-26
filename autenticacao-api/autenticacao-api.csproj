@@ -22,10 +22,7 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Entities\" />
-    <Folder Include="Models\" />
     <Folder Include="Repository\" />
-    <Folder Include="Token\" />
   </ItemGroup>
 
 </Project>
